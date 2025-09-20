@@ -1,0 +1,24 @@
+type,key,value
+offset,m_szLastPlaceName,0x16D4
+offset,m_iConnected,0x6E4
+offset,m_pGameSceneNode,0x330
+offset,bone_array_offset,0x210
+offset,dwEntityList,0x1D02058
+offset,m_MoveType,0x525
+offset,m_fireCount,0x1878
+offset,m_firePositions,0xF38
+offset,m_nFireLifetime,0x1880
+offset,m_aimPunchAngle,0x16FC
+offset,m_vInitialPosition,0x13D0
+offset,m_vInitialVelocity,0x13DC
+offset,m_vecAbsOrigin,0xD0
+signature,findHudSig,87 40 17 98 83 48 27 ? 83 40 CE CB
+signature,chatPrintSig,5A ? ? ? ? FB 39 FC ? 08 ? ? ? ? FA 31 73 ? 5A B2
+signature,manager_addr,12 D1 57 ? ? ? ? 12 D7 0F ? D3 1E 7E ? 12 D7 1F ? 12 D3 1E 7E ? 12 D7 1E 7E ? 1E D3 36 7E 5A
+signature,trace_shape_addr,88 49 9C E4 ? 88 49 8C E4 ? 95 97 C0
+signature,trace_filter_addr,FC ? ? ? ? 5C 95 5F ? ? ? ? ? 5C 99 11 ? ? ? ? 14
+signature,fnGetLobbyPtr,11 ? ? ? ? BD 72 F4 ? ? ? ? B1 74 EC F9
+signature,fnStartMatchmakingPtr,94 55 80 F8 ? 94 55 B0 F8 ? 8A 8B 9D 8A 94 5F 30 ? 94 57 25 95 57 05 DC
+signature,fnCreateSessionPtr,EB FE E3 26 07 8F ? ? ? ? E3 2A 47 ? ? ? ? E3 20 A6 ? ? ? ? E3 20 AA AB
+signature,fnGetStatusPtr,88 9B 80 4B 24 ? 43 DD ? ? ? ? 80 43 11 AD 80 43 CC ED ? ? ? ? 71 ? ? ? ? 80 43 CC 18 43 CC C9 F1 CD ? ? ? ? B7 ? 80 45 C5 C8
+signature,fnIsSessionActivePtr,DE 15 7A ? DE 1D 9B ? ? ? ? DE 1D 97 69 C6 ? DE 13 56 99 03 56 DE 15 52 ? 55 96
