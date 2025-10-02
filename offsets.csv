@@ -3,7 +3,7 @@ offset,m_szLastPlaceName,0x16D4
 offset,m_iConnected,0x6E4
 offset,m_pGameSceneNode,0x330
 offset,bone_array_offset,0x210
-offset,dwEntityList,0x1D042D8
+offset,dwEntityList,0x1D10658
 offset,m_MoveType,0x525
 offset,m_fireCount,0x1878
 offset,m_firePositions,0xF38
