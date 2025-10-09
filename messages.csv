@@ -1,5 +1,5 @@
 type,message,visible
-warning,Tab is not working as of right now,true
+warning, warning text ,false
 info,Server maintenance scheduled at 8PM,false
-info,New version 1.2 available,true
+info,Anti Aim tab is not active/working atm,true
 
