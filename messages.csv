@@ -1,7 +1,9 @@
 type,message,visible
-warning, Anti Aim tab is not working at the moment. ,true
 
 
+warning, Anti Aim tab is currently disabled. ,true
+warning, Offsets are outdated, please wait for an update. ,false
+warning, Some features may be unstable in this build. ,false
+warning, We are aware of the ---- issues and we and currently working on a fix!. ,false
 
-info, ,false
-
+info, v.1.01 is currently being coded ( 83% done ) ,true
