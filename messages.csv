@@ -1,5 +1,4 @@
 type,message,visible
 warning, warning text ,false
-info,Server maintenance scheduled at 8PM,false
 info,Anti Aim tab is not active/working atm,true
 
