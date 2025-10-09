@@ -1,4 +1,4 @@
 type,message,visible
-warning, warning text ,true
-info,Anti Aim tab is not active/working atm,true
+warning, AntiAim tab is not working at the moment. ,true
+info, ,false
 
