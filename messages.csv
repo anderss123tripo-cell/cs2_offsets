@@ -1,1 +1,5 @@
+type,message,visible
+warning,Tab is not working as of right now,true
+info,Server maintenance scheduled at 8PM,false
+info,New version 1.2 available,true
 
