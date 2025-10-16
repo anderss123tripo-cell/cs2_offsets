@@ -5,9 +5,9 @@ offset,m_pGameSceneNode,0x330
 offset,bone_array_offset,0x210
 offset,dwEntityList,0x1D00690
 offset,m_MoveType,0x525
-offset,m_fireCount,0x1878
-offset,m_firePositions,0xF38
-offset,m_nFireLifetime,0x1880
+offset,m_fireCount,0x1860
+offset,m_firePositions,0xF20
+offset,m_nFireLifetime,0x1868
 offset,m_aimPunchAngle,0x16FC
 offset,m_vInitialPosition,0x13D0
 offset,m_vInitialVelocity,0x13DC
