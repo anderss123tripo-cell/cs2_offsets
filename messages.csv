@@ -7,4 +7,4 @@ warning, Some features may be unstable in this build. ,false
 warning, We are aware of the ---- issues and we and currently working on a fix!. ,false
 warning, Please check #release-date channel to see the working beta features ,false
 
-info, Cfg system is in beta. bugs may appear ,true
+info, Cfg system is in beta. bugs may appear ,false
