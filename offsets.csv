@@ -1,16 +1,16 @@
 type,key,value
-offset,m_szLastPlaceName,0x16D4
+offset,m_szLastPlaceName,0x16BC
 offset,m_iConnected,0x6E4
 offset,m_pGameSceneNode,0x330
 offset,bone_array_offset,0x210
-offset,dwEntityList,0x1D07A80
+offset,dwEntityList,0x1D0C9F8
 offset,m_MoveType,0x525
 offset,m_fireCount,0x1860
 offset,m_firePositions,0xF20
 offset,m_nFireLifetime,0x1868
-offset,m_aimPunchAngle,0x16FC
-offset,m_vInitialPosition,0x13D0
-offset,m_vInitialVelocity,0x13DC
+offset,m_aimPunchAngle,0x16E4
+offset,m_vInitialPosition,0x13B8
+offset,m_vInitialVelocity,0x13C4
 offset,m_vecAbsOrigin,0xD0
 signature,findHudSig,87 40 17 98 83 48 27 ? 83 40 CE CB
 signature,chatPrintSig,5A ? ? ? ? FB 39 FC ? 08 ? ? ? ? FA 31 73 ? 5A B2
